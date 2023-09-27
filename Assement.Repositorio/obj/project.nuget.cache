@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2HWHkY6sbVJLD3/1XCKBqyTWlBUl/1qYrt8mqgFcGWqbQDXsRK2fVtr0oAOsHT7/ZBJnMb5R/adUJ1Xalwypg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\W-11\\source\\repos\\Assement\\Assement.Repositorio\\Assement.Repositorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W-11\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
