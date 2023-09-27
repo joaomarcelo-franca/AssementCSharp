@@ -10,6 +10,7 @@ class Program
         BancoDeAlunosFile banco5entidades = new BancoDeAlunosFile();
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine("Entidades registrada no Arquivo .json");
+        Console.WriteLine();
         Console.ResetColor();
         Console.ReadKey();
         banco5entidades.VerificarFila();
