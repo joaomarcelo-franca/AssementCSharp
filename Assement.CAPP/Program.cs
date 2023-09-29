@@ -11,6 +11,7 @@ class Program
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine("Entidades registrada no Arquivo .json");
         Console.WriteLine("Alou troquei");
+        Console.WriteLine("Alou troquei 2");
         Console.ResetColor();
         Console.ReadKey();
         banco5entidades.VerificarFila();
